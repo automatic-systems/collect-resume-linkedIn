@@ -13,6 +13,7 @@
     "puppeteer": "^5.2.1",
     "puppeteer-extra": "^3.1.15",
     "puppeteer-extra-plugin-stealth": "^2.6.1",
+    "resume_inquirer1": "git+https://github.com/Gunjan-01/resume_inquirer.git",
     "yargs": "^15.4.1"
   }
 }
